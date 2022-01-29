@@ -1,0 +1,56 @@
+form {
+    background-color: #eee;
+    display: inline-block;
+    padding: 5px;
+  }
+  form span {
+    display: block;
+    width: 400px;
+    background-color: #eee;
+    margin: 10px 3px 3px 8px;
+  }
+  
+  form input {
+    width: 400px;
+    height: 45px;
+    margin: 0px 5px;
+    box-sizing: border-box;
+  }
+  
+  form input[type="submit"] {
+    display: block;
+    width: 400px;
+    height: 45px;
+    background-color: darkgrey;
+    color: white
+  }
+  h1{
+      text-align: center;
+  }
+  body{
+    background-color: #eee;
+  }  
+
+  input[type=checkbox] 
+  { 
+    width: auto;
+    float: left; 
+    height: 20px; 
+    margin-top: 10px
+  }
+
+  label 
+  {
+    float: left;
+    padding-top: 6px;
+    padding-left: 10px;
+  }
+
+  #mainFrame
+  {
+    text-align: center;
+    margin-top: 25px;
+  }
+
+
+  
